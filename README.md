@@ -1,2 +1,2 @@
 # Eagle-libraries
-A bunch of eagle's unsupported libraries 
+A bunch of unsupported eagle libraries 

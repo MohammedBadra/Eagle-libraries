@@ -1,2 +1,2 @@
 # Eagle-libraries
-A collection of customly designed eagle libraries 
+A collection of custom designed eagle libraries 
